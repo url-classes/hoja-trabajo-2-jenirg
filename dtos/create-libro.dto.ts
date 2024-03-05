@@ -13,6 +13,6 @@ export default class CreateLibroDto{
     genero: string;
 
     @IsString()
-    autor: string;
+    autor2: string;
 
 }
