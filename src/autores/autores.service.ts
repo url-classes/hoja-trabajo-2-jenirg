@@ -6,7 +6,7 @@ import CreateAutorDto from 'dtos/create-autore.dto';
 import UpdateAutorDto from 'dtos/update-autore.dto';
 
 @Injectable()
-export class DoctorsService {
+export class AutoresService {
     private records = [];
 
     constructor(
